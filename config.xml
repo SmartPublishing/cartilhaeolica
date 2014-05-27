@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
 		xmlns:cdv="http://cordova.apache.org/ns/1.0"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id= "com.cartilhaeolica.cerne"
+        id= "com.smartpublishing.cerne"
         version   = "1.0.0">
 
 
@@ -12,7 +12,7 @@
     <description>
         Cartilha eólica do RN.
     </description>
-    <author email="caio.salvdor@smartpublishing.com.br" href="http://cordova.io">
+    <author email="caio.salvador@smartpublishing.com.br" href="http://cordova.io">
         Smartpublishing
     </author>
 	
